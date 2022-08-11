@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Market Notifier</string>
+    <string name="addButtonText">+1</string>
+    <string name="substractButtonText">-1</string>
+
+
+</resources>
